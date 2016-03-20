@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
